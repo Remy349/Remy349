@@ -15,7 +15,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="45"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
-    - ### what I´ll Learn:
+    - ### What I´ll Learn:
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="45"/>
