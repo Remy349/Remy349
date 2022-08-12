@@ -24,4 +24,3 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45"/>
 - ## Extra Info
     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Remy349&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
-    [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Santy01)](https://github.com/anuraghazra/github-readme-stats)
