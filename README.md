@@ -6,7 +6,7 @@
 - In my free time I like to watch series, go for a walk, drink coffee, hang out with my friends, visit new places and acquire new knowledge of the web development       world to keep improving my skills and become a better developer every day.
 - I want to specialize in being a developer who makes full use of JavaScript technologies for development. So I will add ReactJS, NodeJS, ExpressJS, npm and MongoDB     to my list of skills.
 - ## How to reach me:
-Email: santoraga15@gmail.com
+    Email: santoraga15@gmail.com
 - ## My Skills
 - ### What I Know:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45"/>
