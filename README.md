@@ -1,10 +1,6 @@
 <h1 align="center">Hi, I am Santiago Moraga</h1>
 <h3 align="center">A Web Developer</h3>
 
-- ## A little bit of me
-- I develop web pages and websites working on both, client-side and server-side, using technologies such as HTML, CSS/SASS, JavaScript, Python/Flask and Database.
-- In my free time I like to watch series, go for a walk, drink coffee, hang out with my friends, visit new places and acquire new knowledge of the web development       world to keep improving my skills and become a better developer every day.
-- I want to specialize in being a developer who makes full use of JavaScript technologies for development. So I will add ReactJS, NodeJS, ExpressJS, npm and MongoDB     to my list of skills.
 - ## How to reach me:
     Email: santoraga15@gmail.com
 - ## My Skills
