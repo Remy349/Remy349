@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I am Santiago Moraga</h1>
 <h3 align="center">A Web Developer</h3>
 
-- ## How to reach me:
-    Email: santoraga15@gmail.com
 - ## My Skills
 - ### What I Know:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45"/>
