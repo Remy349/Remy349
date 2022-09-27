@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I am Santiago Moraga</h1>
-<h3 align="center">A Web Developer</h3>
 
 - ## My Skills
 - ### What I Know:
