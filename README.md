@@ -28,7 +28,7 @@
 
 <div align="center">
 
-| [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Remy349&include_all_commits=true&show_icons=true&hide=prs,issues)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Remy349&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats) |
-| ------------- | ------------- |
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Remy349&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats) |
+| ------------- |
 
 </div>
