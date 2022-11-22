@@ -1,5 +1,12 @@
 <h1 align="center">🍀 Hi, I am Santiago Moraga 🍀</h1>
 
+<div align="center">
+
+| ![EMAIL](./assets/icons8-gmail-48.png) | <h2 align="center">santoraga15@gmail.com</h2> |
+| - | - |
+
+</div>
+
 <h2 align="center">My Skills</h2>
 
 <div align="center">
