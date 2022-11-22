@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| ![EMAIL](./assets/icons8-gmail-48.png) | <h2 align="center">santoraga15@gmail.com</h2> |
+| ![EMAIL](./assets/icons8-gmail-48.png) | <h3 align="center">santoraga15@gmail.com</h3> |
 | - | - |
 
 </div>
