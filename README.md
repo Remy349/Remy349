@@ -1,10 +1,11 @@
-<h1 align="center">🍀 Hi, I am Santiago Moraga 🍀</h1>
+<h1 align="center">
+    🍀 Hi, I am Santiago Moraga 🍀
+</h1>
 
 <div align="center">
-
-| ![EMAIL](./assets/icons8-gmail-45.png) | <h3 align="center">santoraga15@gmail.com</h3> |
-| - | - |
-
+    <a href="santoraga15@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
 </div>
 
 <h2 align="center">My Skills</h2>
