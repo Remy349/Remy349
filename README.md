@@ -1,6 +1,10 @@
 <h1 align="center">
-    🍀 Hi, I am Santiago Moraga 🍀
+    :four_leaf_clover: Hi, I am Santiago Moraga :four_leaf_clover:
 </h1>
+
+<p align="center">
+    Frontend and Backend web developer, enjoying what I do and always learning to be better than my previous version.
+</p>
 
 <div align="center">
     <a href="mailto:santoraga15@gmail.com">
@@ -36,7 +40,9 @@
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
-<h2 align="center">GitHub Stats</h2>
+<h2 align="center">
+    Github Stats
+</h2>
 
 <div align="center">
 
