@@ -43,10 +43,3 @@
 <h2 align="center">
     Github Stats
 </h2>
-
-<div align="center">
-
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Remy349&layout=compact&langs_count=4)](https://github.com/anuraghazra/github-readme-stats) |
-| ------------- |
-
-</div>
