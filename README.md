@@ -39,3 +39,13 @@
     <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 </div>
+
+<div align="center">
+    <table>
+        <tr>
+            <td>
+                [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Remy349)](https://github.com/anuraghazra/github-readme-stats)
+            </td>
+        </tr>
+    </table>
+</div>
