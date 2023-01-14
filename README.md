@@ -40,12 +40,12 @@
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
+<h2 align="center">
+    Github stats
+</h2>
+
 <div align="center">
-    <table>
-        <tr>
-            <td>
-                [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Remy349)](https://github.com/anuraghazra/github-readme-stats)
-            </td>
-        </tr>
-    </table>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Remy349)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
