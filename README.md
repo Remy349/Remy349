@@ -40,3 +40,14 @@
     <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 </div>
+
+<h2 align="center">
+    Github stats
+</h2>
+
+<div align="center">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Remy349&langs_count=4&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+    
