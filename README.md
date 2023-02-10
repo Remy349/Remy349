@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-    Frontend and Backend web developer, enjoying what I do and always learning to be better than my previous version.
+    Frontend and Backend web developer, loving what I do and using my knowledge to solve problems, create new things from scratch, help others and give my contribution to the world of web development and programming.
 </p>
 
 <div align="center">
