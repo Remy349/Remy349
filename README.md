@@ -12,10 +12,10 @@
 
 <div align="center">
     <a href="mailto:santoraga15@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail%20-%20santoraga15@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+        <img src="https://img.shields.io/badge/Gmail%20-%20santoraga15@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=red" />
     </a>
     <a href="https://dev.to/remy349">
-        <img src="https://img.shields.io/badge/dev.to%20-%20remy349-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
+        <img src="https://img.shields.io/badge/dev.to%20-%20remy349-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white&labelColor=black" />
     </a>
 </div>
 
