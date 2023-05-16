@@ -6,6 +6,10 @@
     Frontend and Backend web developer, loving what I do and using my knowledge to solve problems, create new things from scratch, help others and give my contribution to the world of web development and programming.
 </p>
 
+<h2 align="center">
+    Get in touch
+</h2>
+
 <div align="center">
     <a href="mailto:santoraga15@gmail.com">
         <img src="https://img.shields.io/badge/Gmail%20-%20santoraga15@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
