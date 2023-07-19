@@ -54,7 +54,7 @@
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Remy349&langs_count=4&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Remy349&langs_count=5&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
     
