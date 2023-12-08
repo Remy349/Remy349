@@ -1,5 +1,5 @@
 <h1 align="center">
-    :four_leaf_clover: Hi, I am Santiago Moraga :four_leaf_clover:
+    Hi, I am Santiago Moraga
 </h1>
 
 <p align="center">
