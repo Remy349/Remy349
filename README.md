@@ -1,4 +1,4 @@
-# Santiago Moraga Caldera (Remy349)
+# Santiago Moraga Caldera (Remy349) 🍀
 
 Hi, I'm Santiago a full stack developer with a focus on the frontend world, with the ability to bring an idea to reality through development and coding.
 
